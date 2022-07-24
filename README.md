@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Erick Gege, an insightful web app developer
-- 👀 Passionate and enthusiastic about web development.
+- 👋 Hi, I’m Erick Gege, an insightful software developer
+- 👀 Passionate and enthusiast about application development to solve and automate tasks.
 - 🌱 Skilled in Python, PHP and JavaScript Programming Tools
-- 💞️ FullStack Development using Node Express JS, Python Django and Laravel for PHP, Rest API endpoints, Responsive Frontend Design, Web Scrapping & Software Testing
+- 💞️ FullStack Development using Python Django or PHP for backend, Rest API endpoints (DRF),Frontend Design(Vanilla Js,Jquery with AJAX,React Js), Web Scrapping & Software Testing(unittest)
 - 📫 Reach me through email:erickgege16@gmail.com, phone number :+254 720 067 228
 
 <!---
