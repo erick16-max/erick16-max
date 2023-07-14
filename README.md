@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Erick Gege, a seasoned software developer.
+### Hi there 👋 I am Erick !
+- A seasoned software developer.
 - 👀 Passionate and enthusiast about software product development to solve real world problems.
 - 🌱 Skilled in Python, Django, JavaScript, React JS, Next JS, React Native, Firebase, Google Cloud, Mysqli, Docker, CI/CD, Jira, Git with GitHub, C-Panel.
 - 💞️ Freelancing in Fullstack Software development services (mobile apps, websites & web apps) and other tech services (automation, web scrapping & company profile             designs) 
