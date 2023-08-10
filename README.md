@@ -7,7 +7,8 @@
 
   <p>
     <a href="https://twitter.com/gegerick">
-    <img src="https://img.shields.io/twitter/follow/gegerick?label=Follow%20%40gegerick&style=social" alt="Twitter">
+    <img scr="https://img.shields.io/twitter/url" alt="twitter">
+<!--     <img src="https://img.shields.io/twitter/follow/gegerick?label=Follow%20%40gegerick&style=social" alt="Twitter"> -->
   </a>&ensp; 
   </p>
 
