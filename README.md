@@ -9,12 +9,8 @@
     <a href="https://twitter.com/gegerick">
          <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="Linkenin">
   </a>&ensp; 
-  <a href="https://twitter.com/gegerick">
+  <a href="https://www.linkedin.com/in/erick-gege/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkenin">
-  </a>&ensp; 
-  </p>
-   <a href="https://twitter.com/gegerick">
-      <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" alt="Linkenin">
   </a>&ensp; 
   </p>
 
