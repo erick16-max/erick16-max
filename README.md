@@ -7,10 +7,10 @@
 
   <p>
     <a href="https://twitter.com/gegerick">
-      <img src="https://img.shields.io/twitter/follow/gegerick" alt="Twitter">
+      <img src="https://img.shields.io/badge/twitter/follow/gegerick" alt="Twitter">
   </a>&ensp; 
   <a href="https://twitter.com/gegerick">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkenin">
   </a>&ensp; 
   </p>
 
