@@ -7,7 +7,7 @@
 
   <p>
     <a href="https://twitter.com/ismael_helodev">
-    <img src="https://img.shields.io/twitter/follow/gegerick?label=Follow%20%40ismael_helodev&style=social" alt="Twitter">
+    <img src="https://img.shields.io/twitter/follow/gegerick?label=Follow%20%40gegerick&style=social" alt="Twitter">
   </a>&ensp; 
   </p>
 
