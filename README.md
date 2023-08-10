@@ -13,6 +13,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkenin">
   </a>&ensp; 
   </p>
+   <a href="https://twitter.com/gegerick">
+      <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" alt="Linkenin">
+  </a>&ensp; 
+  </p>
 
 <!---
 erick16-max/erick16-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
