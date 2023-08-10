@@ -1,9 +1,15 @@
 ### Hi there 👋 I am Erick Gege !
 - A seasoned software developer.
-- 👀 Passionate and enthusiast about software product development to solve real world problems.
-- 🌱 Skilled in Python, Django, JavaScript, React JS, Next JS, React Native, Firebase, Google Cloud, Mysqli, Docker, CI/CD, Jira, Git with GitHub, C-Panel.
-- 💞️ Freelancing in Fullstack Software development services (mobile apps, websites & web apps) and other tech services (automation, web scrapping & company profile             designs) 
-- 📫 Reach me through email:erickgege16@gmail.com, phone number :+254 720 067 228, portfolio: gegerick.netlify.app
+- 👀 Passionate in software development and cloud technology, use my enthusiasm to solve real world problems.
+- 🌱 Skilled in Python, Django, JavaScript, React JS, Next JS, React Native, Firebase, Google Cloud, Mysqli, Docker, Jira, Git with GitHub, C-Panel.
+- 💞️ Freelancing in Fullstack Software development(mobile & web apps, automation, web scrapping etc.) 
+- 📫 Reach me through email: erickgege16@gmail.com, phone number: +254720067228,
+
+  <p>
+    <a href="https://twitter.com/ismael_helodev">
+    <img src="https://img.shields.io/twitter/follow/ismael_helodev?label=Follow%20%40ismael_helodev&style=social" alt="Twitter">
+  </a>&ensp; 
+  </p>
 
 <!---
 erick16-max/erick16-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
