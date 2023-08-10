@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Erick Gege !
 - A seasoned software developer.
-- 👀 Passionate in software development and cloud technology, use my enthusiasm to solve real world problems.
-- 🌱 Skilled in Python, Django, JavaScript, React JS, Next JS, React Native, Firebase, Google Cloud, Mysqli, Docker, Jira, Git with GitHub, C-Panel.
-- 💞️ Freelancing in Fullstack Software development(mobile & web apps, automation, web scrapping etc.) 
-- 📫 Reach me through email: erickgege16@gmail.com, phone number: +254720067228,
+- 👀 Passionate in software development and cloud technology, i use my tech enthusiasm to solve real world problems.
+- 🌱 Skilled in Python, Django, JavaScript, React, Google Cloud.
+- 💞️ Freelancing in Fullstack Software development(mobile & web apps, automation, web scrapping.) 
+- 📫 Reach out to me through email: erickgege16@gmail.com & phone number: +254720067228,
 
   <p>
     <a href="https://twitter.com/gegerick">
