@@ -6,7 +6,7 @@
 - 📫 Reach me through email: erickgege16@gmail.com, phone number: +254720067228,
 
   <p>
-    <a href="https://twitter.com/ismael_helodev">
+    <a href="https://twitter.com/gegerick">
     <img src="https://img.shields.io/twitter/follow/gegerick?label=Follow%20%40gegerick&style=social" alt="Twitter">
   </a>&ensp; 
   </p>
