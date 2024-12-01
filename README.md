@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Erick Gege !
 - A seasoned software developer.
 - 👀 Passionate in software development and cloud technologies.
-- 🌱 Skilled in Python, Django, JavaScript, React.js, Next.js, React Native and Google Cloud.
+- 🌱 Skilled in Python, Django, JavaScript, React.js, Next.js, Expo React Native and Google Cloud.
 - 💞️ Freelancing in Fullstack Software development(mobile & web apps, automation, web scrapping.) 
 - 📫 Reach out to me through website: https://gegerick.com/, email: erickgege16@gmail.com & phone number: +254720067228.
 
