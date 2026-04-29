@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Erick Gege !
-- A seasoned software developer.
-- 👀 Passionate in software development and cloud technologies.
-- 🌱 Skilled in Python, Django, DRF, JavaScript, Express Node.js, React.js, Next.js, Expo React Native and Google Cloud.
-- 💞️ Freelancing in Fullstack Software development(mobile & web apps, payment gateway integrations,automation, web scrapping.) 
-- 📫 Reach out to me through website: https://gegerick.com/, email: erickgege16@gmail.com & phone number: +254720067228.
+- A co-founder & seasoned software developer.
+- 👀 Passionate in software product development, fintech and cloud technologies.
+- 🌱 Python, React, AWS, Google Cloud
+- 💞️ Start-ups, Fintech,Freelancing 
+- 📫 Reach out to me through website: https://ricksidetechnologies.co.ke/, email: erickgege16@gmail.com & phone number: +254720067228.
 
   <p>
     <a href="https://twitter.com/gegerick">
