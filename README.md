@@ -1,6 +1,5 @@
 ### Hi there 👋 I am Erick Gege !
-- A co-founder & software developer.
-- 👀 Passionate in software product development, fintech and cloud technologies.
+- 👀 A co-founder & software developer.
 - 🌱 Python, React, AWS, Google Cloud
 - 💞️ Start-ups, Fintech,Freelancing 
 - 📫 Reach out to me through company website: https://ricksidetechnologies.co.ke/, email: ricksidetech@gmail.com & phone number: +254753276905.
